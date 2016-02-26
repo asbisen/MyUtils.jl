@@ -15,6 +15,8 @@ function all_nacols(df::AbstractDataFrame)
 end
 
 
+
+
 """
 Drop all columns that only consists of `NA`
 
